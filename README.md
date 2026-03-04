@@ -18,9 +18,7 @@ A modern Android Business Card application built using **Kotlin** and **Jetpack 
 - Material 3
 - Android Studio
 
-## 📱 Preview
 
-![Business Card App Screenshot](screenshot.png)
 
 ## 📦 Project Structure
 
